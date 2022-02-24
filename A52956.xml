@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new plot, or The VVhig and Tory united being a dialogue between Titus Oats and Saxon the perjur'd evidence.</title>
+            <title>New plot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52956</idno>
+            <idno type="STC">Wing N709</idno>
+            <idno type="STC">ESTC R219318</idno>
+            <idno type="EEBO-CITATION">99830801</idno>
+            <idno type="PROQUEST">99830801</idno>
+            <idno type="VID">35255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2093:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new plot, or The VVhig and Tory united being a dialogue between Titus Oats and Saxon the perjur'd evidence.</title>
+                  <title>New plot.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for.[sic] D. Mallet, at the sign of the Black-Ball, near Bridewell-Bridge,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: "This may be printed, R.P. March the 9th. 1686.".</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy annotated in MS. below title: "18. March. 1685/6".</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Poetry --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Perjury --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:35255:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <head>A NEW PLOT, OR THE VVHIG and TORY United Being a DIALOGUE Between <hi>Titus Oats</hi> and <hi>Saxon</hi> the Perjur'd Evidence.</head>
+            <sp>
+               <speaker>Oates</speaker>
+               <l>VVEll, met Dear Friend, I joy to ſee</l>
+               <l>The Conſort of my miſery.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>I humbly deign to ask your Name,</l>
+               <l>(And beg you would excuſe the ſame.)</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Is't poſſible you ſhould not know;</l>
+               <l>Can I be thus conceal'd from you?</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Oh! now <hi>I</hi> recollect my thoughts,</l>
+               <l>You are I think —<hi>Oates,</hi> Doctor <hi>Oates.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>The very ſame, I'm even he,</l>
+               <l>A near Relation unto thee.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Avaſt! Curs'd Traytor, is it you,</l>
+               <l>The Author of the Nations Woe;</l>
+               <l>Stand off Vile Scare-crow, for I Swear,</l>
+               <l>Thy very Breath Corrupts the Air.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Pray calm your Paſſion, 'tis unmeet,</l>
+               <l>That you ſhould be ſo indiſcreet.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Baſe Villan ceaſe, thou'rt Perjur'd o're,</l>
+               <l>Ten Thouſand times twice told and more;</l>
+               <l>Thou wretched Scoundrel, thou art he,</l>
+               <l>Has forc'd this heavy Yoke on me,</l>
+               <l>'Twas you Coin'd Traytors at your pleaſure,</l>
+               <l>Whoſe foſter'd Lyes (beyond all meaſure)</l>
+               <l>Procur'd you Credit, brought you Gain,</l>
+               <l>Made you the Idol of the Train:</l>
+               <l>Of all the Factious Rout, that Crew,</l>
+               <l>By numerous Bribes did buoy up you:</l>
+               <l>You ſwore Eſtates and Lives away,</l>
+               <l>And thus by ſwearing won the day.</l>
+               <l>Five at a clap, thou Monſtrous Elf</l>
+               <l>(When you deſerv'd it more your ſelf,)</l>
+               <l>Were Doom'd unto the Fatal Tree,</l>
+               <l>By ſuch an Helliſh Rogue as thee.</l>
+               <pb n="2" facs="tcp:35255:2"/>
+               <!-- PDF PAGE 58 -->
+               <l>I will not mention any more,</l>
+               <l>You know for what, and whom you ſwore,</l>
+               <l>And how you'r perjur'd o're and o're.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Rave on, you will have done at laſt,</l>
+               <l>But yet, methinks you run too faſt.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>'Tis but an Amble to the ſpeed</l>
+               <l>That you have made in time of need,</l>
+               <l>When in a trice you croſs'd the Seas,</l>
+               <l>Were here or there, or how you pleaſe:</l>
+               <l>Conſider but what you have done,</l>
+               <l>How you aſperſt the King and Crown;</l>
+               <l>The Queen, the Peers, and all Degree</l>
+               <l>Of moſt unſhaken Loyalty.</l>
+               <l>Ceaſe cruel Fury, Hell ne'r knew,</l>
+               <l>The half the Plagues and Crimes which you</l>
+               <l>Have perpetrated, you full well</l>
+               <l>Have amplify'd the Gates of Hell:</l>
+               <l>Taught me the way to my Damnation,</l>
+               <l>Unleſs I find Commiſeration.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Sum up thy Reaſon, for I fear,</l>
+               <l>Thou lt fall into ſome mad diſpair.</l>
+               <l>Recrute thy Spirits, eaſe thy Breath,</l>
+               <l>There's no Damnation after Death;</l>
+               <l>Wait but a little, and you'l ſee,</l>
+               <l>The Scene will metamorphis'd be.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>The change I fear will yet be worſe,</l>
+               <l>I next muſt ſtride the three Legg'd Horſe.</l>
+               <l>Ah me! unhappy and forlorn,</l>
+               <l>The Ridicule and publick ſcorn</l>
+               <l>of all the World, might I but have</l>
+               <l>My Wiſh, I'de ſupplicate a Grave.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Avert theſe omens, reaſſume</l>
+               <l>A Courage that will more become</l>
+               <l>The Grandure of thy quondam meen,</l>
+               <l>And all theſe trifling Follys Skreen;</l>
+               <l>'Tis all the ſame, he equal ſhares,</l>
+               <l>That's only in, or up to th' Ears.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>I Grieve and Sigh for what I've done,</l>
+               <l>And would'ſt thou yet have me ſin on</l>
+               <l>Againſt the Sacred Deities,</l>
+               <l>Hell ſpews at ſuch like Crimes as theſe,</l>
+               <l>I'll rather bare all Miſeries.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Thou'rt either mad, or not the ſame,</l>
+               <l>That's trumpeted to me by Fame;</l>
+               <l>I've heard that thou, ev'n thou alone,</l>
+               <l>Cou'dſt turn the World quite up-ſide down,</l>
+               <pb n="3" facs="tcp:35255:2"/>
+               <!-- PDF PAGE 58 -->
+               <l>That Armed by ſuch ſtable Buff,</l>
+               <l>Thy Courage was full Cannon Proof.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Time was, I cou'd have out-bravd all</l>
+               <l>The Fiends of Hell, the Deel would craul</l>
+               <l>To pay me Homage with ſubmiſſion,</l>
+               <l>But now I've alter'd my Condition;</l>
+               <l>The Furies awe me, and I ſwear,</l>
+               <l>I'me tortur'd with inteſtine fear.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Baniſh that Bug-bear fear, good Fate</l>
+               <l>Henceforth be thy Aſſociate;</l>
+               <l>Learn but of me, I glory in,</l>
+               <l>The term'd Commiſſion of a Sin;</l>
+               <l>'Tis my content in what is evil,</l>
+               <l>I vie and brave the very Devil:</l>
+               <l>Miſchief's my ſweet'ſt and beſt repoſe,</l>
+               <l>In which I've triumph'd o're my Foes.</l>
+            </sp>
+            <sp>
+               <speaker>Sax.</speaker>
+               <l>Doctor I'm yours, you've won my heart,</l>
+               <l>I'm now reſolv'd to make 'em ſmart;</l>
+               <l>Revenge is ſweet, I now will doom,</l>
+               <l>My Pity and Compaſſion down,</l>
+               <l>Into the moſt devouring <hi>Tomb,</hi>
+               </l>
+               <l>Tho' I at length like <hi>Samſon</hi> dye,</l>
+               <l>A Victim with my Enemy.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Brave and Heroick Soul, I ſwear</l>
+               <l>Thy laſt Reſolves moſt Noble are,</l>
+               <l>In which if thou wilt but perſever,</l>
+               <l>I'll be thy nimble Trout for ever.</l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Grave Doctor, to begin the Section,</l>
+               <l>I now ſubmit to your Direction;</l>
+               <l>Make me your Engine, and I'll play,</l>
+               <l>The Deel himſelf to vvin the Day.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Perſiſt kind Friend I'll lead the van,</l>
+               <l>And give you all th' advice I can;</l>
+               <l>I'll Conjure <hi>Tony</hi>'s Ghoſt and try</l>
+               <l>By an unerring Pollicy,</l>
+               <l>To play my Cards Clubs muſt be <hi>Trumps,</hi>
+               </l>
+               <l>Hye for the <hi>Giblins</hi> and the <hi>Rumps.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Propoſe the Methods I muſt uſe,</l>
+               <l>I now can play at Faſt and Looſe;</l>
+               <l>Propoſe but vvhat, and vvhere and hovv,</l>
+               <l>I'm all Obedience at your bow.</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>Without delay I thus begin,</l>
+               <l>You firſt muſt triumph over Sin;</l>
+               <l>'Tis but a Cipher, Naught and Naught,</l>
+               <l>Will give no Number <hi>I</hi> am taught,</l>
+               <pb n="4" facs="tcp:35255:3"/>
+               <!-- PDF PAGE 59 -->
+               <l>In order unto vvhich firſt you,</l>
+               <l>Muſt diſengage your cruel Foe;</l>
+               <l>Take off the Cauſe th' Effect vvill follow,</l>
+               <l>No vvant of means, the <hi>Gib</hi> or <hi>Gallow</hi>
+               </l>
+               <l>Do alvvays groan whilſt unmanur'd,</l>
+               <l>By ſuch which Fate has them enſur'd:</l>
+               <l>If this wont do then tack about,</l>
+               <l>Reverſe your Steps they'l lead you out</l>
+               <l>There's other meaſures may be made,</l>
+               <l>A Poyſon, Strangle, or a Stab.</l>
+               <l>If thoſe ſhould fail, obſerve theſe Notes,</l>
+               <l>There's Drovvning, Burning, Cutting Throats.</l>
+               <l>Here lyes the pinch, you muſt provide</l>
+               <l>Always againſt the turn o'th' Tide:</l>
+               <l>Should 'your Intrigues be brought to light,</l>
+               <l>You muſt obſerve your Cards aright;</l>
+               <l>When ev'r your Cauſe does go to <hi>wrack,</hi>
+               </l>
+               <l>Then lay it on your Sumpters <hi>Back;</hi>
+               </l>
+               <l>Which when you've done, forthwith you muſt,</l>
+               <l>Be ſure to cry out Murther firſt,</l>
+               <l>Stop thief, ſtop thief, or elſe the Traytor,</l>
+               <l>Then ſwear 'twas he, you know his feature:</l>
+               <l>Prepare your Vouchers, <hi>have</hi> good ſtore,</l>
+               <l>Then ſwear it home, ſwear't o're and o're.</l>
+               <l>'Tis this will purchaſe Reputation</l>
+               <l>Honour, Wealth, and Admiration,</l>
+               <l>And ſtile you <hi>Saviour of the Nation.</hi>
+               </l>
+               <l>This made me great, 'twas this alone,</l>
+               <l>Made me long triumph over <hi>ROME,</hi>
+               </l>
+               <l>And Honour'd throughout Chriſtiandom<g ref="char:punc">▪</g>
+               </l>
+               <l>I'm now ecclipſt <hi>I</hi> can't deny</l>
+               <l>Your Fate and Mine run equally</l>
+               <l>Witneſs the groaning <hi>Pillory.</hi>
+               </l>
+               <l>Yet ſhall I riſe to that degree,</l>
+               <l>That none ſhall dare to <hi>envy</hi> me,</l>
+               <l>So great will be my <hi>Liberty.</hi>
+               </l>
+               <l>And you my Friend ſhall win <hi>Renown,</hi>
+               </l>
+               <l>Beyond the Bubles of <hi>a Crown.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Saxon,</speaker>
+               <l>Ceaſe <hi>worthy Sir,</hi> I ask no more</l>
+               <l>May <hi>I</hi> but have that bleſſed ſtore,</l>
+            </sp>
+            <sp>
+               <speaker>Oates,</speaker>
+               <l>With Duplications, o're, and o're.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed, <hi>R.P. March</hi> the <hi>9th. 1686.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed for. <hi>D. Mallet,</hi> at the Sign of the <hi>Black-Ball,</hi> near <hi>Bridewell-Bridge.</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
